@@ -9,4 +9,7 @@ let modificarFrase = ["Na", "programação,",
   "se", "aprende.", "Permita-se"]
 
 /* Em seguida, verifique o lenght do array, a saída terá que ser 10*/
+let frasemodificada = frase.split("")
 
+console.log(modificarFrase)
+console.log(modificarFrase.length);
